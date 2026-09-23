@@ -20,6 +20,7 @@ dependencies = [
     "mkdocs",
     "pandas>=2.3.3",
     "pip",
+    "pydot>=4.0.1",
     "python-dotenv",
     "ruff",
     "tensorflow>=2.21.0",
