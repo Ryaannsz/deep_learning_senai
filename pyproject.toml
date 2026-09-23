@@ -18,10 +18,12 @@ classifiers = [
 dependencies = [
     "loguru",
     "mkdocs",
+    "pandas>=2.3.3",
     "pip",
     "python-dotenv",
     "ruff",
     "tensorflow>=2.21.0",
+    "torch>=2.14.0",
     "tqdm",
     "typer",
 ]
