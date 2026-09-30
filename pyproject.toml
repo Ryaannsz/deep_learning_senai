@@ -17,6 +17,7 @@ classifiers = [
 ]
 dependencies = [
     "loguru",
+    "matplotlib>=3.10.9",
     "mkdocs",
     "pandas>=2.3.3",
     "pip",
